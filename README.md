@@ -5,7 +5,7 @@
 <center> <h1>Manual de Políticas y Procedimientos del Sistema de Gestión, Monitoreo y Administración Escolar</h1> </center>
 
 <center> <h2> (SIGMA ESCOLAR)</h2> </center>
-<center> <h2> Módulo C.E. Eduardo Delfín Méndez</h2> </center>
+<center> <h2> Nodo C.E. Eduardo Delfín Méndez</h2> </center>
 
 ## Declaración:
 
