@@ -7,7 +7,10 @@
 ## **(SIGMA ESCOLAR)**
 
 ## Nodo Complejo Educativo ***"Eduardo Delfín Méndez"***<br>
+<br>
 
+## Índice
+* [Estructura del Proyecto](#estructura-del-proyecto)
 
 # Declaración:
 
