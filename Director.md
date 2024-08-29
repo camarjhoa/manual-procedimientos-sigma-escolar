@@ -1,6 +1,4 @@
-<center>
-   <a href="http:/cbitzaraza.com.ve/"><img src="https://i.pinimg.com/474x/aa/7a/1c/aa7a1ccaf2bfbca53eb46f9c3f8d8388.jpg" /></a>
-</center>
+<br> <br>
 
 [Regresar al Índice](README.md)
 
