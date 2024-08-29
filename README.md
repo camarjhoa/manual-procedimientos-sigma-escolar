@@ -28,6 +28,8 @@ AUN CUANDO ORIGINALMENTE ES UNA IDEA CONCEBIDA POR EL AUTOR Y PROPIETARIO DEL SI
 ## Estructura del Proyecto
 
 El sistema está estructurado por niveles y jerarquías de autoridad, conformado por módulos que se interconectan y aportan información aplicable al nivel y jerarquía en la competencia inherente a cada módulo. En tal sentido, esta visión le confiere seguridad, integridad y garantías de que lo que cada responsable manipule no contradice o vulnera la integridad de sus pares, superiores o subordinados en la generalidad del proyecto, salvo que los datos que requieran modificación estén en el ámbito de acción y responsabilidad del funcionario que sea designado para realizar tales acciones, donde el índice general y neurálgico del sistema está sustentado en el documento de identidad de la población que administra: Estudiantes (Cédula Escolar o Cédula Laminada); Personal Directivo, Docente y Administrativo (Cédula Laminada); Inventario u otros elementos que puedan ser administrados por el sistema estará sujeto a elaboración de identificadores únicos para cada grupo.
+[Regresar al Inicio](#índice)
+
 <br>
 
 [![estructura-Sigma.png](https://i.postimg.cc/4NhtfgJ7/estructura-Sigma.png)](https://postimg.cc/qz4gwW64)
@@ -37,6 +39,9 @@ El sistema está estructurado por niveles y jerarquías de autoridad, conformado
 ## Nombre de Dominio:
 ***SIGMA ESCOLAR*** funciona bajo la modalidad de ***Página Web***, por lo que el proyecto debe contar con dos elementos importantes; a saber: 
 * **Registro de Dominio Propio:** Para facilitar el acceso al Sistema, se ha determinado el uso de Dominios bajo la extensión **.com.ve** ofrecidos por el Prestador de Servicios  **Conatel**, donde actualmente opera bajo el dominio: ***https://www.cbitzaraza.com.ve***, nombre reservado por el autor del presente proyecto, sin menoscabo de que pueda ser utilizado a futuro otro nombre de Dominio. En este punto es conveniente señalar que, el uso de dominios implica un pago anual en forma de arancel al Estado por el uso de tales nombres de dominio.
-* **Alojamiento (Hosting):** La estructura de archivos y la Base de Datos (BBDD) del proyecto deben reposar en un Servicio de Hosting, con la finalidad de enlazar el dominio con estos archivos, lo cual implica en algunos casos pagos por concepto de aumento de procesamiento (CPU), memoria RAM, entre otros elementos que permiten agilizar la velocidad de las operaciones del Sistema, sobretodo en tiempos de alto tráfico como son inscripciones, revisión de expedientes, generación de procedimientos al inicio y/o final del Año Escolar. 
+* **Alojamiento (Hosting):** La estructura de archivos y la Base de Datos (BBDD) del proyecto deben reposar en un Servicio de Hosting, con la finalidad de enlazar el dominio con estos archivos, lo cual implica en algunos casos pagos por concepto de aumento de procesamiento (CPU), memoria RAM, entre otros elementos que permiten agilizar la velocidad de las operaciones del Sistema, sobretodo en tiempos de alto tráfico como son inscripciones, revisión de expedientes, generación de procedimientos al inicio y/o final del Año Escolar.
+
+
+[Regresar al Inicio](#índice)
 
 
