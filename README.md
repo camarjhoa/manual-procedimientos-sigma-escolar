@@ -15,7 +15,7 @@
 * [Nombre de Dominio](#nombre-de-dominio)
 * [Perfiles de Usuarios](#perfiles-de-usuario-y-acceso-a-los-datos)
 * [Módulo Director](Director.md)
-* [Módulo Sub Director Administrativo](Sub Director Administrativo.md)
+* [Módulo Sub Director Administrativo](Sub-Director-Administrativo.md)
 
 
 <br>
