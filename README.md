@@ -14,6 +14,7 @@
 * [Estructura del Proyecto](#estructura-del-proyecto)
 * [Nombre de Dominio](#nombre-de-dominio)
 * [Perfiles de Usuarios](#perfiles-de-usuario-y-acceso-a-los-datos)
+* [Auditoría de Sistema](#auditoria-de-sistema)
 * [Módulo Director](Director.md)
 * [Módulo Sub Director Administrativo](Sub-Director-Administrativo.md)
 
@@ -52,6 +53,7 @@ El sistema está estructurado por niveles y jerarquías de autoridad, conformado
 
 # Perfiles de Usuario y Acceso a los Datos:
 Al ser un proyecto interconectado, es necesario que diferentes tipos de usuario se registren en el sistema, asignándoles roles con el propósito de garantizar acceso a los datos e información inherente a cada rol, sin menoscabo de obtener datos provenientes de otros módulos pero siempre respetando el orden jerárquico y el resguardo de la información, por lo que **todos los perfiles se rigen por la asignación o denegación de los siguientes privilegios:** Lectura (**r**), Escritura (**w**) y Ejecución de archivos o comandos (**x**). En tal sentido, se perfilan los siguientes tipos de usuarios:
+
 * ***Directivo:*** Máximos privilegios, salvo aquellos que vulneren el funcionamiento de otros Módulos.
 * ***Subdirectivo:*** Privilegios de lectura, ejecución y escritura inherentes a sus funciones, así como también privilegios especiales sólo si el Directivo lo autoriza desde su Módulo).
 * ***Coordinador:*** Privilegios de lectura, escritura y ejecución sólo en su módulo. No tiene acceso a otros módulos, pero otros perfiles de igual rango y nivel, así como también perfiles superiores pueden acceder en modo sólo lectura a su información. El Nivel Directivo tiene privilegios para auditar este Módulo, pero en modo Sólo Lectura.
@@ -60,6 +62,30 @@ Al ser un proyecto interconectado, es necesario que diferentes tipos de usuario 
 * ***Otros Módulos:*** Se podrán crear otros Módulos, pero siempre respetando la metodología de Nodos, roles y los privilegios (r,w,x) antes mencionados.
 
 <br>
+
+[Regresar al Inicio](#índice)
+
+
+# AUDITORIA DE SISTEMA
+
+En aras de garantizar la transparencia de cada uno de los procesos y la integridad de los datos, ***SIGMA ESCOLAR*** escucha cada una de las operaciones que los diferentes usuarios en sus roles realizan, por lo que los procesos de auditoría están enfocados en dos vertientes; a saber: **OPERACIONES GENERALES Y OPERACIONES PARTICULARES**.
+
+Se consideran ***OPERACIONES GENERALES*** aquellas que tienen como propósito registrar movimientos generales conducentes a clarificar si fuese necesario alguna posibilidad de vulneración del sistema u otros intereses. Pertenecen a esta categoría, las siguientes:
+
+* LOGUEO DE USUARIO.
+* CIERRE DE SESIÓN.
+* CARGA ZONIFICADOS POR ARCHIVO.
+
+Se consideran ***OPERACIONES PARTICULARES***, todos aquellos movimientos, registros o eliminación de datos específicos y que involucren información precisa con el propósito de resarcir o clarificar cualquier eventualidad. En tal sentido, se consideran las siguientes categorías:
+
+* ASIGNACION DE SECCION.
+* LIBERACION ESTUDIANTE.
+* CAMBIO DE SECCION.
+* DELEGACIÓN DE FUNCIONES.
+* INGRESO ESTUDIANTE.
+* RETIRO ESTUDIANTE.
+  
+De igual manera, queda abierta la posibilidad de agregar nuevas funciones de auditoría, manteniendo los preceptos anteriormente expuestos en el presente Manual. 
 
 [Regresar al Inicio](#índice)
 
