@@ -14,7 +14,7 @@
 * [Estructura del Proyecto](#estructura-del-proyecto)
 * [Nombre de Dominio](#nombre-de-dominio)
 * [Perfiles de Usuarios](#perfiles-de-usuario-y-acceso-a-los-datos)
-* [Auditoría de Sistema](#auditoria-de-sistema)
+* [Auditoría de Sistema](#auditoría-de-sistema)
 * [Módulo Director](Director.md)
 * [Módulo Sub Director Administrativo](Sub-Director-Administrativo.md)
 
@@ -79,8 +79,7 @@ Se consideran ***OPERACIONES GENERALES*** aquellas que tienen como propósito re
 
 * LOGUEO DE USUARIO.
 * CIERRE DE SESIÓN.
-* CARGA ZONIFICADOS POR ARCHIVO.
-* CARGA DE CUADRATURA DE PERSONAL POR ARCHIVO.
+
 
 Se consideran ***OPERACIONES PARTICULARES***, todos aquellos movimientos, registros o eliminación de datos específicos y que involucren información precisa con el propósito de resarcir o clarificar cualquier eventualidad. En tal sentido, se consideran las siguientes categorías:
 
@@ -90,6 +89,8 @@ Se consideran ***OPERACIONES PARTICULARES***, todos aquellos movimientos, regist
 * DELEGACIÓN DE FUNCIONES.
 * INGRESO ESTUDIANTE.
 * RETIRO ESTUDIANTE.
+* CARGA ZONIFICADOS POR ARCHIVO.
+* CARGA DE CUADRATURA DE PERSONAL POR ARCHIVO.
   
 De igual manera, queda abierta la posibilidad de agregar nuevas funciones de auditoría, manteniendo los preceptos anteriormente expuestos en el presente Manual. 
 
