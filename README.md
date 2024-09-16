@@ -51,7 +51,7 @@ El sistema está estructurado por niveles y jerarquías de autoridad, conformado
 
 [Regresar al Inicio](#indice)
 
-# Perfiles de Usuario y Acceso a los Datos:
+## Perfiles de Usuario y Acceso a los Datos:
 Al ser un proyecto interconectado, es necesario que diferentes tipos de usuario se registren en el sistema, asignándoles roles con el propósito de garantizar acceso a los datos e información inherente a cada usuario, sin menoscabo de obtener datos provenientes de otros módulos pero siempre respetando el orden jerárquico y el resguardo de la información, por lo que **todos los perfiles se rigen por la asignación o denegación de los siguientes privilegios:** Lectura (**r**), Escritura (**w**) y Ejecución de archivos o comandos (**x**). En tal sentido, se perfilan los siguientes tipos de usuarios:
 
 * ***Directivo:*** Máximos privilegios, salvo aquellos que vulneren el funcionamiento de otros Módulos. En este punto, es conveniente señalar que de manera temporal y hasta que se diseñe el procedimiento de autogestión del proyecto mediante ***Protocolo de Concenso de Usuarios***, asume máximos privilegios en este Módulo el ***"Personal Cbit Pedro Zaraza"*** desde sus usuarios respectivos y todo con el aval y bajo las reglas de auditoría que rigen a los demás usuarios del Sistema. Para la creación de estos perfiles, a nivel de sistema se le asigna la denominación **"@directivo"**.
@@ -71,7 +71,7 @@ Al ser un proyecto interconectado, es necesario que diferentes tipos de usuario 
 [Regresar al Inicio](#indice)
 
 
-# AUDITORIA DE SISTEMA
+## Auditoría de Sistema:
 
 En aras de garantizar la transparencia de cada uno de los procesos y la integridad de los datos, ***SIGMA ESCOLAR*** escucha cada una de las operaciones que los diferentes usuarios en sus roles realizan, por lo que los procesos de auditoría están enfocados en dos vertientes; a saber: **OPERACIONES GENERALES Y OPERACIONES PARTICULARES**.
 
