@@ -91,6 +91,9 @@ Se consideran ***OPERACIONES PARTICULARES***, todos aquellos movimientos, regist
 * RETIRO ESTUDIANTE.
 * CARGA ZONIFICADOS POR ARCHIVO.
 * CARGA DE CUADRATURA DE PERSONAL POR ARCHIVO.
+* ACTUALIZACION DATOS PERSONALES ESTUDIANTE.
+* ACTUALIZACION DATOS MADRE DEL ESTUDIANTE.
+* ACTUALIZACION DATOS REPRESENTANTE DEL ESTUDIANTE.
   
 De igual manera, queda abierta la posibilidad de agregar nuevas funciones de auditoría, manteniendo los preceptos anteriormente expuestos en el presente Manual. 
 
