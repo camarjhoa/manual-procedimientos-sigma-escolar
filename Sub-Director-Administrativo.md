@@ -7,5 +7,6 @@ Al formar parte del Cuerpo Directivo institucional, opera dentro del ***Módulo 
 
 ## Competencias:
 * Es el encargado de procesar toda la data de personal Directivo, Docente, Administrativo, de Mantenimiento y otros recursos humanos adscritos o en funciones dentro de la institución, por lo que tendrá acceso a cargar la Nómina Institucional, actualizar la carga académica con el propósito de facilitar información precisa a los demás Módulos donde intervenga la Nómina del plantel.
+
 * Auditar los inventarios institucionales, por lo que podrá solicitar asistencia técnica para realizar un subsistema de inventario adaptado a las necesasidad y a la tecnología disponible dentro del plantel.
-* 
+
