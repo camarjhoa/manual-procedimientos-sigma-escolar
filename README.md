@@ -95,10 +95,10 @@ Se consideran ***OPERACIONES PARTICULARES***, todos aquellos movimientos, regist
 * ACTUALIZACION DATOS MADRE DEL ESTUDIANTE.
 * ACTUALIZACION DATOS REPRESENTANTE DEL ESTUDIANTE.
   
-De igual manera, queda abierta la posibilidad de agregar nuevas funciones de auditoría, manteniendo los preceptos anteriormente expuestos en el presente Manual. Los datos recopilados en estas operaciones de auditoría están enfocados a registrar:
+De igual manera, queda abierta la posibilidad de agregar nuevas funciones de auditoría, manteniendo los preceptos anteriormente expuestos en el presente Manual. Los datos recopilados en estas operaciones están enfocados a registrar:
 
 * Fecha y hora de la operación.
-* Usuario que realizó la operación (No compartir su clave de usuario).
+* Usuario que realizó la operación (No compartir su usuario y/o clave de acceso).
 * Dirección IP del equipo cliente.
 * Dirección MAC del equipo cliente.
 * Tipo de Movimiento (descritos anteriormente en las categorías).
