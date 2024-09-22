@@ -27,11 +27,13 @@
 
 ESTE PROYECTO ASPIRA A SER UNA HERRAMIENTA ÁGIL Y PRÁCTICA QUE PUEDE SER IMPLEMENTADA EN INSTITUCIONES AFINES, TODO EN ARAS DE ESCALAR EN EL ÁMBITO MUNICIPAL DENTRO DE LAS INSTITUCIONES DE EDUCACIÓN MEDIA GENERAL DEL MUNICIPIO PEDRO ZARAZA DEL ESTADO GUÁRICO, VENEZUELA.
 
-AUN CUANDO ORIGINALMENTE ES UNA IDEA CONCEBIDA POR EL AUTOR Y PROPIETARIO DEL SISTEMA (**LCDO. JHONNY PÉREZ** –<camarjhoa@gmail.com>-), ESTÁ ABIERTO A RECIBIR COLABORACIONES EN MATERIA  TECNOLÓGICA U OPERATIVA, TODO EN EL MARCO DE LA FILOSOFÍA DE INTERACCIÓN Y COOPERACIÓN BAJO EL MÉTODO DEL TRABAJO COLABORATIVO, ASÍ COMO TAMBIÉN ***ES ASPIRACIÓN DEL AUTOR LIBERAR EL PROYECTO CUANDO EL MISMO ADQUIERA LA SUFICIENTE AUTONOMÍA E INDEPENDENCIA** EN CUANTO A FUNCIONAMIENTO SE REFIERE, YA QUE FORMA PARTE DE LA INSTITUCIÓN COMO UN ACTIVO TECNOLÓGICO DE GRAN VALOR Y DE VANGUARDIA EN EL MUNICIPIO Y DENTRO DEL  ESTADO GUÁRICO, YA QUE FUE EL PRIMERO EN SU CLASE, PRODUCTO DE LOS CONOCIMIENTOS DEL PERSONAL INSTITUCIONAL COMO ES EL COMPLEJO EDUCATIVO **"EDUARDO DELFÍN MÉNDEZ"**.
+AUN CUANDO ORIGINALMENTE ES UNA IDEA CONCEBIDA POR EL AUTOR Y PROPIETARIO DEL SISTEMA (**LCDO. JHONNY PÉREZ** –<camarjhoa@gmail.com>-), ESTÁ ABIERTO A RECIBIR COLABORACIONES EN MATERIA  TECNOLÓGICA U OPERATIVA, TODO EN EL MARCO DE LA FILOSOFÍA DE INTERACCIÓN Y COOPERACIÓN BAJO EL MÉTODO DEL TRABAJO COLABORATIVO, ASÍ COMO TAMBIÉN ***ES ASPIRACIÓN DEL AUTOR LIBERAR EL PROYECTO CUANDO EL MISMO ADQUIERA LA SUFICIENTE AUTONOMÍA E INDEPENDENCIA*** EN CUANTO A FUNCIONAMIENTO SE REFIERE, YA QUE FORMA PARTE DE LA INSTITUCIÓN COMO UN ACTIVO TECNOLÓGICO DE GRAN VALOR Y DE VANGUARDIA EN EL MUNICIPIO Y DENTRO DEL  ESTADO GUÁRICO, YA QUE FUE EL PRIMERO EN SU CLASE, PRODUCTO DE LOS CONOCIMIENTOS DEL PERSONAL INSTITUCIONAL COMO ES EL COMPLEJO EDUCATIVO **"EDUARDO DELFÍN MÉNDEZ"**.
+
 
 ## Estructura del Proyecto
 
 El sistema está estructurado por niveles y jerarquías de autoridad, conformado por módulos que se interconectan y aportan información aplicable al nivel y jerarquía en la competencia inherente a cada módulo. En tal sentido, esta visión le confiere seguridad, integridad y garantías de que lo que cada responsable manipule no contradice o vulnera la integridad de sus pares, superiores o subordinados en la generalidad del proyecto, salvo que los datos que requieran modificación estén en el ámbito de acción y responsabilidad del funcionario designado, donde el índice general y neurálgico del sistema está sustentado en el documento de identidad de la población que administra: Estudiantes **(Cédula Escolar o Cédula Laminada)**; Personal Directivo, Docente y Administrativo **(Cédula Laminada)**; Inventario u otros elementos que puedan ser administrados por el sistema estarán sujetos a elaboración de identificadores únicos para cada grupo.
+
 <br>
 
 [Regresar al Inicio](#indice)
@@ -43,6 +45,7 @@ El sistema está estructurado por niveles y jerarquías de autoridad, conformado
 <br>
 
 ## Nombre de Dominio:
+
 ***SIGMA ESCOLAR*** funciona bajo la modalidad de ***Página Web***, por lo que el proyecto debe contar con dos elementos importantes; a saber: 
 * **Registro de Dominio:** Para facilitar el acceso al Sistema, se ha determinado el uso de Dominios bajo la extensión **.com.ve** ofrecidos por el Prestador de Servicios Nacional  **Conatel**, donde actualmente opera bajo a través de la dirección: ***https://www.cbitzaraza.com.ve***, nombre reservado por el autor del presente proyecto, sin menoscabo de que pueda ser utilizado a futuro otro nombre de Dominio. En este punto es conveniente señalar que, el uso de dominios implica un pago anual en forma de arancel al Estado por concepto de estos servicios.
 * **Alojamiento (Hosting):** La estructura de archivos y la Base de Datos (BBDD) del proyecto deben reposar en un Servicio de Hospedaje de Archivos, con la finalidad de enlazar el dominio reservado con estos archivos, lo cual implica en algunos casos pagos por concepto de aumento de procesamiento de (CPU), memoria RAM, entre otros elementos que permiten agilizar la velocidad de las operaciones del Sistema, sobretodo en tiempos de alto tráfico como son inscripciones, revisión de expedientes, generación de procedimientos al inicio y/o final del Año Escolar.
