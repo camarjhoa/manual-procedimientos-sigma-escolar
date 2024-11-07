@@ -30,19 +30,7 @@ ESTE PROYECTO ASPIRA A SER UNA HERRAMIENTA ÁGIL Y PRÁCTICA QUE PUEDE SER IMPLE
 AUN CUANDO ORIGINALMENTE ES UNA IDEA CONCEBIDA POR EL AUTOR Y PROPIETARIO DEL SISTEMA (**LCDO. JHONNY PÉREZ** –<camarjhoa@gmail.com>-), ESTÁ ABIERTO A RECIBIR COLABORACIONES EN MATERIA  TECNOLÓGICA U OPERATIVA, TODO EN EL MARCO DE LA FILOSOFÍA DE INTERACCIÓN Y COOPERACIÓN BAJO EL MÉTODO DEL TRABAJO COLABORATIVO, ASÍ COMO TAMBIÉN ***ES ASPIRACIÓN DEL AUTOR LIBERAR EL PROYECTO CUANDO EL MISMO ADQUIERA LA SUFICIENTE AUTONOMÍA E INDEPENDENCIA*** EN CUANTO A FUNCIONAMIENTO SE REFIERE, YA QUE FORMA PARTE DE LA INSTITUCIÓN COMO UN ACTIVO TECNOLÓGICO DE GRAN VALOR Y DE VANGUARDIA EN EL MUNICIPIO Y DENTRO DEL  ESTADO GUÁRICO, YA QUE FUE EL PRIMERO EN SU CLASE, PRODUCTO DE LOS CONOCIMIENTOS DEL PERSONAL INSTITUCIONAL COMO ES EL COMPLEJO EDUCATIVO **"EDUARDO DELFÍN MÉNDEZ"**.
 
 
-## Estructura del Proyecto
 
-El sistema está estructurado por niveles y jerarquías de autoridad, conformado por módulos que se interconectan y aportan información aplicable al nivel y jerarquía en la competencia inherente a cada módulo. En tal sentido, esta visión le confiere seguridad, integridad y garantías de que lo que cada responsable manipule no contradice o vulnera la integridad de sus pares, superiores o subordinados en la generalidad del proyecto, salvo que los datos que requieran modificación estén en el ámbito de acción y responsabilidad del funcionario designado, donde el índice general y neurálgico del sistema está sustentado en el documento de identidad de la población que administra: Estudiantes **(Cédula Escolar o Cédula Laminada)**; Personal Directivo, Docente y Administrativo **(Cédula Laminada)**; Inventario u otros elementos que puedan ser administrados por el sistema estarán sujetos a elaboración de identificadores únicos para cada grupo.
-
-<br>
-
-[Regresar al Inicio](#indice)
-
-<br>
-
-[![estructura-Sigma.png](https://i.postimg.cc/4NhtfgJ7/estructura-Sigma.png)](https://postimg.cc/qz4gwW64)
-
-<br>
 
 ## Nombre de Dominio:
 
